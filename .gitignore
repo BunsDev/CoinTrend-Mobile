@@ -20,3 +20,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Env Variables
+.env
+google-services.json
